@@ -13,7 +13,7 @@ Ce projet a été développé dans le cadre du Master M1 2024-2025, avec un focu
 ## Fonctionnalités
 
 ### Gestion des Comptes
-- **Inscription** : Création de compte avec email et mot de passe (haché côté backend).
+- **Inscription** : Création de compte avec email et mot de passe.
 - **Connexion** : Authentification avec persistance de session via SharedPreferences (maintient la session même après fermeture de l'application).
 - **Déconnexion** : Fermeture de session avec suppression des données locales.
 
@@ -213,8 +213,7 @@ Si vous rencontrez des erreurs, consultez les logs Flutter (`flutter logs`) pour
 
 ## Licence
 
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
-Auteur : [Votre nom]  
+Auteur : Mouhamadou Mansour BALDE
 Date : Août 2025  
 Projet pour Master M1 2024-2025
